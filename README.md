@@ -1,10 +1,10 @@
-# Project Name
+![Software-Course-Registration-Website](https://github.com/tieugem1997/Software-Course-Registration-Website/assets/39017335/605b22ee-1a7c-439b-a3f0-37821a9798cd)# Project Name
 
 This is a basic website project for registering software courses at FPT Software.
 
 ## My Project Screenshot
 
-![Uploading Software-Course-Registration-Website.png…]()
+![Screenshot](image/Software-Course-Registration-Website.png)
 
 ## Table of Contents
 
