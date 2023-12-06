@@ -2,6 +2,10 @@
 
 This is a basic website project for registering software courses at FPT Software.
 
+## My Project Screenshot
+
+![Uploading Software-Course-Registration-Website.png…]()
+
 ## Table of Contents
 
 - [Description](#description)
